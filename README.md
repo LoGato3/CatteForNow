@@ -1,2 +1,2 @@
 # Hola
-Siento atracción a C++
+En una relación tóxica con C++
